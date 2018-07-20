@@ -1,0 +1,9 @@
+1:37 2018/4/3__pycache__/
+/venv
+/upload
+/.idea
+.git/
+*.log
+.data
+/migrations
+/static
