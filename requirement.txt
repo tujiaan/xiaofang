@@ -14,7 +14,7 @@ decorator==4.2.1
 Flask==0.12.2
 Flask-APScheduler==1.8.0
 Flask-Cache==0.13.1
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 flask-csrf==0.9.2
 Flask-Migrate==2.1.1
 Flask-MQTT==0.0.11
