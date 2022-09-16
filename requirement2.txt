@@ -31,7 +31,7 @@ jedi==0.11.1
 Jinja2==2.10
 jpush==3.2.9
 jsonschema==2.6.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 mysql-connector==2.1.6
 parse==1.8.2
